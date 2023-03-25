@@ -12,13 +12,13 @@ Após a instalacao dos softwares necessarios vamos configurar o projeto base do 
 
 - Clone o repositorio seguinte para sua maquina: https://github.com/marcosvfranco/curso-basico-playwright-pub
 
-> -- Clique no botão verde `Code` 
+  - Clique no botão verde `Code`  
 ![Code Button](assets/code.png)
--- Clique no botão a direita do link exibido para copiar o link 
+  - Clique no botão a direita do link exibido para copiar o link  
 ![Copy Button](assets/copy.png)
--- Abra o seu terminal Git Bash ou outro de sua preferencia na pasta que quer clonar o repositório e escreva `git clone  ` e copie o valor da URL
--- Ficará assim: `git clone https://github.com/marcosvfranco/curso-basico-playwright-pub`
--- Aperte Enter
+  - Abra o seu terminal Git Bash ou outro de sua preferencia na pasta que quer clonar o repositório e escreva `git clone  ` e copie o valor da URL
+  - Ficará assim: `git clone https://github.com/marcosvfranco/curso-basico-playwright-pub`
+  - Aperte Enter
 
 Pronto, agora vamos instalar o projeto
 
@@ -37,5 +37,5 @@ A documentação oficial do Playwright nos diz para usar o comando `npm init pla
 
 ## Documentação do Playwright
 
-A documentação oficial para a instalação do Playwright está neste link
+A documentação oficial para a instalação do Playwright está neste link  
 https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next
