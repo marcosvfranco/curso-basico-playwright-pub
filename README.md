@@ -14,4 +14,4 @@ Para evitar discrepâncias sobre erros e comandos utilizados, dê preferência p
 
 - 🔗 [NodeJS](https://nodejs.org/en/download) - estou utilizando a versão 18.14.0 neste curso
 - 🔗 [Git e Git Bash](https://git-scm.com/downloads) - estou utilizando a versão 2.39.2 neste curso
-- 🔗 [VSCode](https://code.visualstudio.com/) (ou IDE de sua preferência) - estou utilizando a versão 1.76.2 neste curso
+- 🔗 [VSCode](https://code.visualstudio.com/) - estou utilizando a versão 1.76.2 neste curso
