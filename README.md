@@ -1,6 +1,6 @@
 # 📚 Estrutura do Curso
 
-## Pre requisitos
+## Pré requisitos
 - Irei apresentar os pre requisitos do curso nas primeiras aulas, sobre o conhecimento que você deve ter para este curso e tanbém qual a configuração mínima do seu computador para poder executar os programas utilizados aqui
 
 ## Aulas
