@@ -5,7 +5,7 @@
 
 ## Aulas
 - 🎥 Cada aula terá um video explicativo do tema da aula feito por mim, com exemplos práticos dos comandos utilizados e acesso a documentação oficial do Playwright
-- 📝 Durante as aulas ou ao final delas você terá um exercício para fazer e praticar o conteúdo da aula, após alguns segundos irei resolver o exercício (aproveite para praticar! Evite só ver o que fiz)
+- 📝 Durante as aulas ou ao final delas você terá um exercício para fazer e praticar o conteúdo da aula. Caso não haja este exercício a mais, você pode praticar com o próprio exemplo que dei na aula 😊
 - 📖 Em cada aula será mencionado a documentação utilizada sempre que isso for aplicável à aula.
 
 # 📥 Instalação dos Softwares utilizados
