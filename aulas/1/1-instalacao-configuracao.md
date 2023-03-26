@@ -38,4 +38,4 @@ A documentação oficial do Playwright nos diz para usar o comando `npm init pla
 ## Documentação do Playwright
 
 A documentação oficial para a instalação do Playwright está neste link  
-https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next
+https://playwright.dev/docs/intro
