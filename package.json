@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/marcosvfranco/curso-basico-playwright-pub#readme",
   "devDependencies": {
-    "@playwright/test": "^1.32.1",
-    "@types/node": "^18.15.9"
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^18.18.1"
   }
 }
