@@ -31,7 +31,7 @@ Perfeito! Agora temos nosso projeto instalado pronto para podermos começar o cu
 
 ## Observações
 
-A documentação oficial do Playwright nos diz para usar o comando `npm init playwright@latest` para instalar o projeto, mas como queremos focar na versão específica `1.32.1` do Playwright neste curso, não vamos usar esse comando pois ele instala o Playwright na sua última versão.
+A documentação oficial do Playwright nos diz para usar o comando `npm init playwright@latest` para instalar o projeto, mas como queremos focar na versão específica `1.38.1` do Playwright neste curso, não vamos usar esse comando pois ele instala o Playwright na sua última versão.
 
 ---
 
