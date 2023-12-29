@@ -23,7 +23,7 @@ test('Ações Básicas 1', async({ page }) => {
     await expect(checkbox2).not.toBeChecked();
 })
 
-test.only('Ações Básicas 2', async({ page }) => {
+test('Ações Básicas 2', async({ page }) => {
     // dropdowns
     await page.goto('https://the-internet.herokuapp.com/dropdown');
     const dropdown = page.locator('select#dropdown');
