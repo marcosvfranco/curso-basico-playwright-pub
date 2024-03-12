@@ -14,6 +14,7 @@ test.describe('Logins de sucesso', async () => {
     test.beforeEach(async ({page}) => {
         await page.goto('https://www.saucedemo.com/v1/');
     })
+
     test.beforeAll(async () => {
         console.log('Começando testes de login de sucesso');
     })
@@ -38,6 +39,15 @@ test.describe('Falhas no Login', async () => {
     test.beforeAll(async () => {
         console.log('Começando testes de falha de login');
     })
+
+    test.afterEach(async () => {
+        console.log('Finalizando cada um dos testes de falha');
+    })
+
+    test.afterAll(async () => {
+        console.log('Finalização total dos testes de falha');
+    })
+
     test('Login com usuario locked', async({ page }) => {
         const errorLabel = page.locator('[data-test="error"]');
 
