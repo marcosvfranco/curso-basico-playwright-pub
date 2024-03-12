@@ -24,7 +24,7 @@ test('Desafio 2', async({ page }) => {
     const errorLabel = page.locator('[data-test="error"]');
 
     await page.goto('https://www.saucedemo.com/v1/');
-    await expect(errorLabel).not.toBeVisible();
+    await expect(errorLabel).toBeHidden();
 
     await page.locator('[data-test="username"]').fill('locked_out_user');
     await page.locator('[data-test="password"]').fill('secret_sauce');
