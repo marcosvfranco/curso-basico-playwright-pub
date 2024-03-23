@@ -16,7 +16,7 @@ test.describe('Logins de sucesso', async () => {
     })
 
     test.beforeAll(async () => {
-        console.log('Começando testes de login de sucesso');
+        // console.log('Começando testes de login de sucesso');
     })
 
     test('Usuário e senha corretos - usuário comum', async({ page }) => {
@@ -37,15 +37,15 @@ test.describe('Falhas no Login', async () => {
     })
 
     test.beforeAll(async () => {
-        console.log('Começando testes de falha de login');
+        // console.log('Começando testes de falha de login');
     })
 
     test.afterEach(async () => {
-        console.log('Finalizando cada um dos testes de falha');
+        // console.log('Finalizando cada um dos testes de falha');
     })
 
     test.afterAll(async () => {
-        console.log('Finalização total dos testes de falha');
+        // console.log('Finalização total dos testes de falha');
     })
 
     test('Login com usuario locked', async({ page }) => {
